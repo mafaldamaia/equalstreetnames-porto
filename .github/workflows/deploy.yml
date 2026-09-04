@@ -15,5 +15,5 @@ jobs:
       id-token: write
     secrets: inherit
     with:
-      country:
-      city:
+      country: portugal
+      city: porto
