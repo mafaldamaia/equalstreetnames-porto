@@ -1,0 +1,158 @@
+name,source,gender,wikidata,type
+"Alameda das Fontaínhas",wikidata,-,Q10283281,way
+"Avenida 25 de Abril",wikidata,-,Q193245,way
+"Avenida de Montevideu",wikidata,-,Q1335,way
+"Avenida do Brasil",wikidata,-,Q155,way
+"Avenida dos Aliados",wikidata,-,Q215669,way
+"Beco das Navas de Tolosa",wikidata,-,Q219697,way
+"Cais da Alfândega",wikidata,-,Q9603263,relation+way
+"Largo Amor de Perdição",wikidata,-,Q3614519,way
+"Largo de Valverde",wikidata,-,Q2890299,way
+"Largo do Colégio",wikidata,-,Q5994345,way
+"Ponte Infante Dom Henrique",wikidata,-,Q9064482,way
+"Ponte da Arrábida",wikidata,-,Q126599093,way
+"Praça Cidade Salvador",wikidata,-,Q36947,way
+"Praça da Galiza",wikidata,-,Q3908,way
+"Praça da Trindade",wikidata,-,Q37090,relation
+"Praça do General Humberto Delgado",wikidata,-,Q10353485;Q64137481,way
+"Praça do Império",wikidata,-,Q200464,way
+"Praça do Marquês de Pombal",wikidata,-,Q10353491;Q319511,way
+"Praceta de São Mamede",wikidata,-,Q2733432,way
+"Rotunda Automóvel Club de Portugal",wikidata,-,Q260753,way
+"Rua Clube Fluvial Portuense",wikidata,-,Q5775153,way
+"Rua Nova da Alfândega",wikidata,-,Q9603263,way
+"Rua da Asseiceira",wikidata,-,Q2887902,way
+"Rua da Cidade da Beira",wikidata,-,Q211563,way
+"Rua da Cidade de Luanda",wikidata,-,Q3897,way
+"Rua da Maternidade",wikidata,-,Q10327321,way
+"Rua da Roliça",wikidata,-,Q324344,way
+"Rua da Venezuela",wikidata,-,Q717,way
+"Rua das Linhas de Elvas",wikidata,-,Q2887948,way
+"Rua das Linhas de Torres",wikidata,-,Q1826718,way
+"Rua de Almoster",wikidata,-,Q2887826,way
+"Rua de Alvalade",wikidata,-,Q125881300,way
+"Rua de Ameixial",wikidata,-,Q2887851,way
+"Rua de Castelo Rodrigo",wikidata,-,Q2888264,way
+"Rua de Cerneja",wikidata,-,Q9651035,way
+"Rua de Ceuta",wikidata,-,Q5823,way
+"Rua de Diu",wikidata,-,Q631849,way
+"Rua de Matapan",wikidata,-,Q691729,way
+"Rua de Montes Claros",wikidata,-,Q2889383,way
+"Rua de Montijo",wikidata,-,Q2889392,way
+"Rua de Navas de Tolosa",wikidata,-,Q219697,way
+"Rua de Nossa Senhora de Fátima",wikidata,-,Q719524,way
+"Rua de O Comércio do Porto",wikidata,-,Q5157878,way
+"Rua de Ourique",wikidata,-,Q1328537,way
+"Rua de Paço de Sousa",wikidata,-,Q61087963,way
+"Rua de São Miguel",wikidata,-,Q45581,way
+"Rua de Toro",wikidata,-,Q2734129,way
+"Rua do Buçaco",wikidata,-,Q389349,way
+"Rua do Faial",wikidata,-,Q657187,way
+"Rua do Jornal de Notícias",wikidata,-,Q1704037,way
+"Rua do Morgado de Mateus",wikidata,-,Q10332331,way
+"Rua do Ouro",wikidata,-,Q897,way
+"Rua do Salado",wikidata,-,Q1792643,way
+"Rua do Vimeiro",wikidata,-,Q209359,way
+"Rua do Zaire",wikidata,-,Q974,way
+"Via Futebol Clube do Porto",wikidata,-,Q128446,way
+"Avenida de Fernão de Magalhães",wikidata,?,Q1496;Q1822923,way
+"Campo 24 de Agosto",wikidata,?,Q1496;Q1822923,way
+"Praça de Francisco Sá Carneiro",wikidata,?,Q10353457;Q367010;Q367010,way
+"Praça Dona Filipa de Lencastre",wikidata,F,Q236911,way
+"Rua Cecília Meireles",wikidata,F,Q2607615,way
+"Rua Ilse Losa",wikidata,F,Q1659168,way
+"Rua de Guilhermina Suggia",wikidata,F,Q259861,way
+"Rua de Santa Catarina",wikidata,F,Q179718,way
+"Rua de Santa Helena",wikidata,F,Q170164,way
+"Travessa da Senhora da Conceição",wikidata,F,Q345,way
+"Alameda de Basílio Teles",wikidata,M,Q4868436,way
+"Alameda de Eça de Queirós",wikidata,M,Q316327,way
+"Alameda de Eça de Queiroz",wikidata,M,Q316327,way
+"Avenida Fontes Pereira de Melo",wikidata,M,Q611180,way
+"Avenida José Domingues dos Santos",wikidata,M,Q1392602,way
+"Avenida de Camilo",wikidata,M,Q365423,way
+"Avenida de Gustavo Eiffel",wikidata,M,Q20882,way
+"Avenida de Rodrigues de Freitas",wikidata,M,Q10309674,way
+"Avenida de Vasco da Gama",wikidata,M,Q7328,way
+"Avenida do Marechal Gomes da Costa",wikidata,M,Q470961,way
+"Bairro de Casas Económicas Marechal Gomes da Costa",wikidata,M,Q470961,relation
+"Largo da Maternidade de Júlio Dinis",wikidata,M,Q980339,way
+"Largo de Alberto Pimentel",wikidata,M,Q16487084,way
+"Largo de António Cálem",wikidata,M,Q610783,way
+"Ponte Luiz I (tabuleiro inferior)",wikidata,M,Q156175,way
+"Ponte Luiz I (tabuleiro superior)",wikidata,M,Q156175,way
+"Praça de Almeida Garrett",wikidata,M,Q316806,way
+"Praça de Carlos Alberto",wikidata,M,Q181261,relation+way
+"Praça de Dom João I",wikidata,M,Q201575,relation+way
+"Praça de Gonçalves Zarco",wikidata,M,Q360742,way
+"Praça de Mouzinho de Alburquerque",wikidata,M,Q2748222,way
+"Praça de Parada Leitão",wikidata,M,Q10310254,way
+"Praça do Infante Dom Henrique",wikidata,M,Q182897,way
+"Rua Actor João Guedes",wikidata,M,Q1710160,way
+"Rua Adolfo Casais Monteiro",wikidata,M,Q365029,way
+"Rua Aires de Ornelas",wikidata,M,Q9593108,way
+"Rua António Enes",wikidata,M,Q2857751,way
+"Rua Augusto Luso",wikidata,M,Q9637757,way
+"Rua Cantor Zeca Afonso",wikidata,M,Q559269,way
+"Rua Diogo Brandão",wikidata,M,Q48876902,way
+"Rua Diogo do Couto",wikidata,M,Q1137118,way
+"Rua Dom Pedro V",wikidata,M,Q156048,way
+"Rua Doutor Carlos Cal Brandão",wikidata,M,Q94622899,way
+"Rua Engenheiro Ferreira Dias",wikidata,M,Q10281659,way
+"Rua Fernando de Bulhões",wikidata,M,Q167477,way
+"Rua Francisco da Rocha Soares",wikidata,M,Q10285275,way
+"Rua Luís de Camões",wikidata,M,Q590,way
+"Rua Pêro de Alenquer",wikidata,M,Q1668016,way
+"Rua Sacadura Cabral",wikidata,M,Q3121506,way
+"Rua Santo Ildefonso",wikidata,M,Q456069,way
+"Rua de Agostinho de Campos",wikidata,M,Q9588418,way
+"Rua de Alexandre Herculano",wikidata,M,Q520688,way
+"Rua de Álvares Cabral",wikidata,M,Q174432,way
+"Rua de Alves Redol",wikidata,M,Q448851,way
+"Rua de Antero de Quental",wikidata,M,Q467494,way
+"Rua de Barbosa du Bocage",wikidata,M,Q630116,way
+"Rua de Bartolomeu Dias",wikidata,M,Q130377,way
+"Rua de Bernardim Ribeiro",wikidata,M,Q822857,way
+"Rua de Calouste Gulbenkian",wikidata,M,Q345538,way
+"Rua de Camões",wikidata,M,Q590,way
+"Rua de Cândido dos Reis",wikidata,M,Q7675563,way
+"Rua de Cervantes",wikidata,M,Q5682,way
+"Rua de Ciríaco Cardoso",wikidata,M,Q32164413,way
+"Rua de Costa Cabral",wikidata,M,Q130870,way
+"Rua de Damião de Góis",wikidata,M,Q567913,way
+"Rua de Dom João Peculiar",wikidata,M,Q64761395,way
+"Rua de Dom Manuel II",wikidata,M,Q154308,way
+"Rua de Egas Moniz",wikidata,M,Q273219,way
+"Rua de Fernandes Tomás",wikidata,M,Q1891502,way
+"Rua de Gil Vicente",wikidata,M,Q360383,way
+"Rua de João Pedro Ribeiro",wikidata,M,Q10312032,way
+"Rua de João das Regras",wikidata,M,Q6298448,way
+"Rua de Jorge Viterbo Ferreira",wikidata,M,Q23060671,way
+"Rua de Júlio Dinis",wikidata,M,Q980339,way
+"Rua de Latino Coelho",wikidata,M,Q5971514,way
+"Rua de Manuel Pinto de Azevedo",wikidata,M,Q10324438,way
+"Rua de Martim Moniz",wikidata,M,Q3028496,way
+"Rua de Miguel Bombarda",wikidata,M,Q952551,way
+"Rua de Mouzinho da Silveira",wikidata,M,Q1532667,way
+"Rua de Oliveira Martins",wikidata,M,Q1399091,way
+"Rua de Passos Manuel",wikidata,M,Q1596681,way
+"Rua de Pedro Hispano",wikidata,M,Q172916,way
+"Rua de Robert Auzelle",wikidata,M,Q3434473,way
+"Rua de Sá da Bandeira",wikidata,M,Q669820,way
+"Rua de São Brás",wikidata,M,Q151967,way
+"Rua de São Filipe de Nery",wikidata,M,Q217791,way
+"Rua de São Roque da Lameira",wikidata,M,Q152457,way
+"Rua de Saraiva de Carvalho",wikidata,M,Q16495285,way
+"Rua de Serpa Pinto",wikidata,M,Q921705,way
+"Rua do Abade de Baçal",wikidata,M,Q7601256,way
+"Rua do Alferes Malheiro",wikidata,M,Q10363707,way
+"Rua do Barão de Nova Sintra",wikidata,M,Q10309657,way
+"Rua do Conde de Ferreira",wikidata,M,Q10307165,way
+"Rua do Duque de Loulé",wikidata,M,Q116972,way
+"Rua do General Sousa Dias",wikidata,M,Q9582214,way
+"Rua do Infante Dom Henrique",wikidata,M,Q182897,way
+"Rua do Padre António Vieira",wikidata,M,Q458650,way
+"Rua do Professor Bento de Jesus Caraça",wikidata,M,Q4890520,way
+"Rua do Professor Luís de Pina",wikidata,M,Q10321763,way
+"Travessa de Antero de Quental",wikidata,M,Q467494,way
+"Travessa de São Carlos",wikidata,M,Q216946,way
